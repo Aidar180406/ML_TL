@@ -1,0 +1,3 @@
+0 foreign
+1 russian
+2 trucks
